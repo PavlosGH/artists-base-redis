@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Define the project's group id, artifact id, and version -->
-    <groupId>com.example</groupId>
-    <artifactId>my-project</artifactId>
+    <groupId>com.artistsBase</groupId>
+    <artifactId>artist-base</artifactId>
     <version>1.0.0</version>
 
     <!-- Define project properties -->
